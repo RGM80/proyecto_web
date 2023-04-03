@@ -1,0 +1,58 @@
+
+*{
+
+    margin: 10px;
+}
+
+
+#general{
+    width: 1300px;
+    height: 1200px;
+    margin: 5px;
+    background-color:rgb(101, 94, 146)
+}
+
+#encabezado{
+    height: 11%;
+    background-color:rgb(127, 255, 163)
+}
+
+#logo{
+    width: 20%;
+    height: 50%;
+    margin: 5px;
+    background-color:rgb(127, 255, 163)
+}
+
+#titulo{
+    width: 1300px;
+    height: 1200px;
+    margin: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    color:rgb(196, 140, 160)rgb(177, 169, 47);
+    background-color: rgb(177, 169, 47)
+    
+    
+}
+
+#contenido{
+    
+    height: 82%;
+    margin: 10px;
+    background-color:rgb(40, 38, 14)
+}
+
+#informacion{
+    height: 98%;
+    width: 68%;
+    margin: 10px;
+    background-color:rgb(196, 140, 160)
+}
+
+.img-logo{
+
+    width: 15%;
+    height: 20%;
+    align-content: center;
+}
